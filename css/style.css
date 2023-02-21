@@ -61,7 +61,7 @@ li {
   }
 
   .section_header p {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
   }
 }
 
@@ -230,7 +230,7 @@ header p {
 
 @media screen and (max-width: 550px) {
   header p {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 }
 
@@ -540,6 +540,20 @@ header p {
 .contact .contact-info .social i:hover {
   transform: scale(1.4);
   color: var(--main-color);
+}
+
+@media screen and (max-width: 550px) {
+  .contact .contact-info > p:first-of-type {
+    font-size: 1.7rem;
+  }
+
+  .contact .contact-info a {
+    font-size: 1.7rem;
+  }
+
+  .contact .contact-info .social {
+    font-size: 1rem;
+  }
 }
 
 /* FOOTER */
