@@ -3,5 +3,7 @@ This is a simple template created by using:
 
 - Html
 - Css
+- Responsive Design
 
-This template is responsive.
+## Simple Portfolio
+[Live Preview](https://template-001.vercel.app/)
